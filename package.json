@@ -1,0 +1,20 @@
+{
+  "name": "sanity-stream-import",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Rune Botten",
+  "license": "ISC",
+  "dependencies": {
+    "@sanity/client": "^1.149.18",
+    "@sanity/import": "^1.149.18",
+    "gunzip-stream": "^1.0.1",
+    "mississippi": "^4.0.0",
+    "p-queue": "^6.6.0",
+    "tar-stream": "^2.1.3"
+  }
+}
